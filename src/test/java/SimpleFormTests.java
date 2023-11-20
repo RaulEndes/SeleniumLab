@@ -18,11 +18,11 @@ public class SimpleFormTests extends BasePage{
 
     private final By simpleFormDemoLink = By.linkText("Simple Form Demo");
 
-        @BeforeMethod
-        public void setUp() {
-            super.setUp();
-            simpleFormPage = new SimpleFormPage(driver);
-        }
+    @BeforeMethod
+    public void setUp() {
+        super.setUp();
+        simpleFormPage = new SimpleFormPage(driver);
+    }
 
 
     @Test
