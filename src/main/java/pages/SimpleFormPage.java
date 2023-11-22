@@ -59,5 +59,8 @@ public class SimpleFormPage extends BasePage {
     }
 
 
+
+
+
 ////tema: de facut inca un test pentru alte scenarii
 }
